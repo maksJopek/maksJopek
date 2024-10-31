@@ -4,7 +4,5 @@ Full version is available on my self-hosted Cgit instance here: https://git.jope
 
 Have a wonderful day!
 
-My Github website: https://maksjopek.github.io/
-Interesting article on fake news detection in social media: https://paperswithcode.com/paper/fake-news-detection-on-social-media-a-data
-My fork of their dataset repo: https://github.com/maksJopek/FakeNewsNet
+My simple Github website: https://maksjopek.github.io/
 ```
